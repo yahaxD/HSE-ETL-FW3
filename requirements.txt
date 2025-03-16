@@ -1,0 +1,7 @@
+pymongo==4.11.2
+psycopg2-binary==2.9.5
+Faker==37.0.0
+apache-airflow-providers-mongo==3.1.0
+apache-airflow-providers-postgres==5.5.0
+dnspython==2.7.0
+
